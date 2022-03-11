@@ -1,0 +1,1036 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+.nav-logo{
+    margin: 27px 0px;
+    margin-left: 110px;
+    width: 80%;
+}
+ 
+.logo-link{
+    margin: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #111111;
+    transition: 0.4s ease-in-out;
+    border: none;
+}
+.logo-link:hover{
+      
+     border-bottom: 2px solid #FFCE45;
+}
+/*banner section*/
+.banner-setion{
+    background: url(../img/banner-min.jpg)no-repeat;
+    background-size: cover;
+}
+.banner-text{
+    margin-top: 36%;
+    margin-bottom: 14%;
+}
+.banner-text span{
+    height: 100px;
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    position: absolute;
+    margin-left: 211px;
+    top: -2px; 
+}
+.banner-text h2{
+    margin-left: 225px;
+    color: #fff;
+    font-size: 47px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.banner-text h5{
+   margin-left: 226px;
+    margin-top: -20px;
+    font-size: 27px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif; 
+}
+
+.banner-btn{
+    margin-top: 79%;
+    margin-left: 35%;
+    width: 30%;
+    height: 8%;
+    border: none;
+    border-radius: 30px;
+    background: #E8BF5D;
+    font-size: 20px;
+    transition: 0.4s ease-in-out;
+}
+.banner-btn:hover{
+     background: #52BDC9;
+     color: #fff;
+}
+/*About section*/
+.about-section{
+
+}
+.about-text span{
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 120px;
+    position: absolute;
+    margin-left: -15px;
+    top: 5px;   
+}
+.about-text{
+    margin-top: 65px;
+    margin-bottom: 20px;
+}
+.about-text h2{
+   font-size: 40px;
+    font-family: 'Roboto Slab', serif; 
+}
+.about-text p{
+    width: 67%;
+    font-size: 18px;
+    color: #8C8C8C;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.about-history{
+    margin-top: 25px;
+}
+.about-history h2{
+    margin-bottom: 55px;
+    font-size: 28px;
+    color: #444444;
+    font-family: 'Roboto Slab', serif;
+}
+.about-history h3{
+    margin: 64px 0px;
+    font-size: 22px;
+    color: #444444;
+} 
+.about-p{
+    margin-top: 7%;
+    margin-left: -165px;
+}
+.about-p p{
+    margin: 18px 0px;
+    width: 102%;
+    font-weight: 500;
+    color: #444444;
+    text-align: justify;
+}
+.experts{
+    margin-left: 145px;
+    margin-top: 25px;
+    font-family: 'Roboto Slab', serif;
+}
+.experts h1{
+    font-size: 30px;
+    margin-bottom: 31px;
+    color: #444444;
+}
+.experts h6{
+   line-height: 2;
+    font-size: 17px;
+    color: #9E9E9E; 
+}
+/*practis area*/
+.practis-section{
+    background: #111111;
+}
+.practis-text{
+    margin-top: 70px;
+    margin-bottom: 65px;
+}
+.practis-text img{
+    width: 25%;
+    opacity: 0.1;
+}
+.practis-text span{
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 146px;
+    margin-top: -175px;
+}
+.practis-text h4{
+    position: absolute;
+    top: 25px;
+    font-size: 34px;
+    color: #fff;
+    left: 26px;
+    font-family: 'Roboto Slab', serif;
+}
+.practis-text p{
+     position: absolute;
+    top: 58%;
+    color: #fff;
+    font-size: 20px;
+    left: 27px;
+    width: 94%;
+    font-family: 'Roboto Slab', serif;  
+}
+.practis-icon{
+
+}
+.practis-icon img{
+    margin-top: 28%;
+    margin-left: 147px;
+}
+.practis-title{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.practis-title h2{
+    width: 203%;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.practis-title p{
+    width: 189%;
+    text-align: justify;
+    color: #fff;
+    margin-left: 28%;
+}
+.practis-icon-two{
+
+}
+.practis-icon-two img{
+    margin-left: 220%;
+    margin-top: 30%;
+}
+.practis-title-two{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.practis-title-two h2{
+    margin-left: 115%;
+    width: 198%;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+.practis-title-two p{
+   width: 185%;
+    margin-left: 142%;
+    text-align: justify;
+    color: #fff; 
+}
+.practis-two{
+    background: #111111;
+}
+/*Team Section*/
+
+.team-text{
+    margin-top: 55px;
+    margin-bottom: 32px;
+}
+.team-text span{
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 105px; 
+}
+.team-text h2{
+    margin-top: -100px;
+    margin-left: 15px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 33px;  
+}
+.team-text p{
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    width: 58%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+}
+.team-member{
+    margin-bottom: 45px;
+}
+.team-member img{
+    margin-top: 30px;
+    width: 101%;
+}
+.team-member h3{
+  text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    color: #4D4D4D;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 0px;  
+}
+.team-member p{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #4D4D4D;
+    font-size: 17px;
+}
+
+/*Clients Section*/
+.clients-section{
+background: url(../img/banner-min2.jpg)no-repeat;
+background-size: cover;
+}
+.clients-title{
+    margin-top: 45px;
+    margin-bottom: 50px;
+}
+.clients-title span{
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 100px;
+    position: absolute;
+    top: 2px;
+}
+.clients-title h3{
+    font-size: 32px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 10px;
+}
+.clients-title p{
+    color: #fff;
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.col-12{
+
+}
+
+.carousel-one{
+
+}
+.carousel-one img{
+   width: 95%;
+    margin-bottom: 90px;  
+}
+.carousel-text{
+
+}
+ 
+.carousel-title{
+    
+}
+.carousel-title img{
+   position: absolute;
+    top: 22px;
+    left: -5px;
+    opacity: 0.2; 
+}
+.carousel-title p{
+    margin-left: 30px;
+    margin-top: 30px;
+    color: #fff;
+    margin-bottom: 90px;   
+}
+.carousel-title h4{
+    margin-left: 30px;
+    font-size: 27px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+}
+.carousel-title h6{
+    margin-left: 30px;
+    font-size: 15px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+}
+.carousel-indicators li {
+    box-sizing: content-box;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    width: 13px;
+    height: -5px !important;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: unset;
+    border-top: 10px solid transparent;
+    border-bottom: none;
+    opacity: .5;
+    transition: opacity .6s ease;
+    border-radius: 408px;
+}
+ /* Card section*/
+ .card-section{
+
+ }
+.card-title{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.card-title span{
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 99px;
+    position: absolute;
+}
+
+.card-title h2{
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 10px;  
+}
+
+.card-title p{
+    margin-left: 10px;
+    width: 55%;
+    font-size: 18px;
+}
+.card-menu{
+
+}
+.card-menu img{
+    width: 85%;
+    margin-top: 45px;
+    margin-bottom: 25px;
+}
+.card-menu h2{
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.card-menu p{
+    width: 85%;
+    text-align: justify;
+    margin-left: 2px;
+     
+}
+.card-t{
+
+}
+.card-t h6{
+    font-size: 17px;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 3px;
+}
+.card-t span{
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 4px;
+    font-family: 'Roboto', sans-serif;
+}
+.card-t h5{
+    position: absolute;
+    top: 355px;
+    left: 224px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.card-img{
+    margin-bottom: 55px;
+}
+.card-img img{
+    width: 84%;
+    margin-left: 9px;
+    margin-bottom: 20px;
+}
+.card-img span{
+   border: 2px solid #E8BF5D;
+    display: block;
+    width: 301px;
+    margin-left: 2px;
+}
+/*Content Section*/
+.content-sec{
+    background: #111111;
+}
+.content-title{
+    margin-top: 50px;
+    margin-bottom: 45px;
+}
+.content-title img{
+     position: absolute;
+    top: -19px;
+    left: 22px;
+    width: 20%;
+    opacity: 0.1;
+}
+.content-title h2{
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    font-size: 33px;
+    margin-left: 10px;
+}
+.content-title p{
+  color: #fff;
+    margin-left: 10px;
+    width: 56%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 19px;
+    margin-bottom: 60px;  
+}
+.content-title span{
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 105px;
+    position: absolute;
+}
+.sq-sec{
+   margin-top: 10px;
+    margin-bottom: 55px;
+    color: #fff;
+}
+.sq-sec.active{
+    color: #F9AE57;
+}
+
+.sq-sec p{
+    border-bottom: 2px solid #E8BF5D;
+    display: block;
+    width: 101%;
+    margin: 15px 0px;
+    font-size: 16px;
+}
+.sq-sec p span{
+    margin-left: 21px;
+}
+
+.content-box{
+   margin-top: 40px;
+    background: #E8BF5D;
+    height: 216px;
+    margin-left: 53px;
+}
+.content-box h6{
+    line-height: 2;
+    width: 86%;
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 14px;
+}
+/* map section*/
+.map-section{
+
+}
+.map-text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.map-text span{
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 100px;
+    position: absolute;   
+}
+.map-text h2{
+    font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+    color: #111111;
+    margin-left: 10px;   
+}
+.map-text p{
+    width: 60%;
+    font-size: 17px;
+    margin-left: 10px;
+}
+.from{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.from-control{
+    width: 100%;
+    height: 50px;
+    padding: 0px 10px;
+    line-height: 2.5;
+    margin: 15px 0px;
+    border: none;
+    border-bottom: 2px solid #E8BF5D;
+}
+.from-btn{
+    width: 45%;
+    height: 50px;
+    margin-top: 15px;
+    border: none;
+    background: #E8BF5D;
+    border-radius: 30px;
+    font-weight: 800;
+    font-family: 'Roboto Slab', serif;
+    transition: 0.4s ease-in-out;
+}
+.from-btn:hover{
+    background:  #3A84DF; 
+    color: #fff;
+}
+ .map-menu {
+    margin-top: 42px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+/*footer section*/
+.footer-section{
+    background: #111111;
+     overflow: hidden;
+}
+.f-text{
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.f-text h4{
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+}
+.f-icons{
+
+}
+.f-icons ul li {
+    list-style: none;
+    color: #fff;
+    margin-left: 300px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.f-icons ul li i{
+    margin: 0px 7px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+/*MEDIA DEVICE*/
+/*Mobile Device*/
+@media (min-width: 320.01px) and (max-width: 576px){
+ .nav-logo {
+    margin: 27px 0px;
+    margin-left: 35px;
+    width: 73%;
+}
+.banner-text {
+    margin-top: 11%;
+    margin-bottom: 5%;
+}
+.banner-text span {
+    height: 85px;
+    display: block;
+    position: absolute;
+    margin-left: 22px;
+    top: -2px;
+}
+ .banner-btn {
+    margin-top: 15%;
+    margin-left: 6%;
+    width: 27%;
+    height: 26%;
+    border: none;
+    border-radius: 30px;
+    background: #E8BF5D;
+    font-size: 16px;
+    transition: 0.4s ease-in-out;
+    margin-bottom: 50px;
+}
+.banner-text h5 {
+    margin-left: 36px;
+    margin-top: -20px;
+    font-size: 27px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+}
+.banner-text h2 {
+    margin-left: 36px;
+    color: #fff;
+    font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+}
+.about-text span {
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 116px;
+    position: absolute;
+    margin-left: 13px;
+    top: 5px;
+}
+.about-text h2 {
+    font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 30px;
+}
+.about-text p {
+    width: 81%;
+    font-size: 14px;
+    color: #8C8C8C;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+.experts h6 {
+    line-height: 1.5;
+    font-size: 14px;
+    color: #9E9E9E;
+    margin-bottom: 40px;
+    margin-left: -140px;
+    text-align: justify;
+}
+.experts h1 {
+    font-size: 22px;
+    margin-bottom: 31px;
+    color: #444444;
+    font-weight: 700;
+    margin-left: -145px;
+}
+.experts {
+    margin-left: 143px;
+    margin-top: 25px;
+    font-family: 'Roboto Slab', serif;
+}
+.about-p p {
+    margin: 41px 0px;
+    width: 69%;
+    font-weight: 700;
+    color: #444444;
+    text-align: justify;
+    margin-left: 58px;
+    margin-top: 18px;
+}
+.about-p {
+    margin-left: 0px;
+    font-size: 12px;
+    margin-top: -250px;
+}
+.about-history h3 {
+    margin: 55px 0px;
+    font-size: 15px;
+    color: #444444;
+}
+.about-history h2 {
+    margin-bottom: 55px;
+    font-size: 20px;
+    color: #444444;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+}
+.about-history {
+    margin-top: 25px;
+}
+.practis-text p {
+    position: absolute;
+    top: 28%;
+    font-size: 15px;
+    left: 24px;
+    width: 82%;
+    text-align: justify;
+}
+.practis-text h4 {
+    position: absolute;
+    top: 0px;
+    font-size: 25px;
+    color: #fff;
+    left: 23px;
+    font-family: 'Roboto Slab', serif;
+}
+.practis-text span {
+    height: 146px;
+    margin-top: -130px;
+
+}
+.practis-text img {
+    width: 40%;
+    opacity: 0.1;
+}
+.practis-title p {
+    width: 58%;
+    text-align: justify;
+    color: #fff;
+    margin-left: 20%;
+}
+.practis-title h2 {
+    width: 91%;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 10px;
+    margin-top: -57px;
+}
+.practis-icon img {
+    margin-top: 10%;
+    margin-left: 6px;
+}
+.practis-title {
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.practis-title-two p {
+    width: 56%;
+    margin-left: 22%;
+    text-align: justify;
+    color: #fff;
+}
+.practis-title-two h2 {
+    margin-left: -51%;
+    width: 198%;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 10px;
+    margin-top: -76px;
+    text-align: center;
+}
+.practis-icon-two img {
+    margin-left: 0%;
+    margin-top: 10%;
+    width: 11%;
+}
+.team-text span {
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 123px;
+    position: absolute;
+}
+.team-text h2 {
+    margin-top: 5px;
+    margin-left: 15px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+}
+.team-text p {
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    width: 58%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+    text-align: justify;
+}
+.team-member img {
+    width: 75%;
+    display: block;
+    margin: auto;
+}
+.clients-title span {
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 158px;
+    position: absolute;
+    top: -2px;
+}
+.clients-title h3 {
+    font-size: 32px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 16px;
+}
+.clients-title p {
+    color: #fff;
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 18px;
+    text-align: justify;
+}
+.carousel-title h6 {
+    margin-left: 76px;
+    font-size: 12px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 71px;
+}
+.carousel-title h4 {
+    margin-left: 79px;
+    font-size: 23px;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 9px;
+}
+.carousel-title p {
+    margin-top: 30px;
+    color: #fff;
+    margin-bottom: 31px;
+    font-size: 12px;
+    width: 75%;
+    text-align: justify;
+    margin-left: 69px;
+}
+ 
+.carousel-title img {
+    position: absolute;
+    top: 36px;
+    left: 37px;
+    opacity: 0.2;
+}
+.carousel-one img {
+    width: 75%;
+    margin: auto;
+    display: block;
+}
+.card-title span {
+    border-left: 2px solid #E8BF5D;
+    display: block;
+    height: 114px;
+    position: absolute;
+    top: -4px;
+}
+.card-title h2 {
+    font-size: 25px;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 10px;
+}
+.card-title p {
+    margin-left: 10px;
+    width: 73%;
+    font-size: 14px;
+    text-align: justify;
+}
+.card-img span {
+    border: 2px solid #E8BF5D;
+    display: block;
+    width: 386px;
+    margin-left: 42px;
+}
+.card-img img {
+    width: 85%;
+    margin-left: 43px;
+    margin-bottom: 20px;
+}
+.card-menu p {
+    width: 85%;
+    text-align: justify;
+    margin-left: 41px;
+}
+.card-t h6 {
+    font-size: 17px;
+    font-weight: 600;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 61px;
+}
+.card-t h5 {
+    position: absolute;
+    top: 339px;
+    left: 333px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.card-menu h2 {
+    font-size: 28px;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    margin-top: 10px;
+}
+.card-menu img {
+    width: 78%;
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+}
+.content-title h2 {  
+    font-size: 28px;
+}
+.content-title p {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.sq-sec p {
+    border-bottom: 2px solid #E8BF5D;
+    display: block;
+    width: 87%;
+    margin: 15px 0px;
+    font-size: 14px;
+    margin-left: 5px;
+}
+.sq-sec p span {
+    margin-left: 15px;
+}
+.content-box {
+    margin-top: 5px;
+    background: #E8BF5D;
+    height: 244px;
+    margin-left: 23px;
+    margin-right: 60px;
+    margin-bottom: 47px;
+}
+.content-box h6 {
+    line-height: 2;
+    width: 85%;
+    text-align: justify;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 14px;
+}
+.practis-section {
+    background: #111111;
+    overflow: hidden;
+}
+.banner-setion {
+    
+    overflow: hidden;
+}
+.about-section {
+    overflow: hidden;
+}
+.practis-two {
+    overflow: hidden;
+}
+.footer-section {
+    overflow: hidden;
+}
+.map-text span {
+    height: 120px;  
+}
+.map-text h2 {
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
+    color: #111111;
+    margin-left: 10px;
+}
+.map-text p {
+    width: 68%;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.from-control {
+    width: 85%;
+    height: 50px;
+    padding: 0px 10px;
+    line-height: 1.5;
+    margin: 5px 0px;
+    border: none;
+    border-bottom: 2px solid #E8BF5D;
+}
+.map-menu {
+    margin-top: 5px;
+    margin-left: 21px;
+    margin-bottom: 40px;
+}
+.f-text h4 {
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    margin-left: -250px;
+}
+ 
+.f-icons ul li {
+    list-style: none;
+    color: #fff;
+    margin-left: 300px;
+    margin-top: -50px;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+}
+ 
+/*small & /tap device*/
+@media (min-width: 576.01px) and (max-width: 768px){
+
+}
+/*note /laptop device*/
+
+ @media (min-width: 992.01px) and (max-width: 1200px){
+
+}
